@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Phone Timezone Finder",
+  "version": "1.0",
+  "description": "Shows timezone and city/state for area codes and phone numbers.",
+  "action": {
+    "default_title": "Phone Timezone",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "permissions": [],
+  "host_permissions": []
+}

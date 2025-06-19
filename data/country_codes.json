@@ -1,0 +1,33 @@
+{
+  "1": {
+    "country": "USA/Canada",
+    "tz": [
+      "America/New_York",
+      "America/Chicago",
+      "America/Denver",
+      "America/Los_Angeles"
+    ],
+    "label": "EST/CST/MST/PST"
+  },
+  "44": {
+    "country": "United Kingdom",
+    "tz": [
+      "Europe/London"
+    ],
+    "label": "BST"
+  },
+  "49": {
+    "country": "Germany",
+    "tz": [
+      "Europe/Berlin"
+    ],
+    "label": "CET"
+  },
+  "41": {
+    "country": "Switzerland",
+    "tz": [
+      "Europe/Zurich"
+    ],
+    "label": "CET"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "212": {
+    "city": "New York",
+    "state": "New York",
+    "abbr": "NY",
+    "tzid": "America/New_York",
+    "label": "EST"
+  },
+  "213": {
+    "city": "Los Angeles",
+    "state": "California",
+    "abbr": "CA",
+    "tzid": "America/Los_Angeles",
+    "label": "PST"
+  },
+  "202": {
+    "city": "Washington",
+    "state": "DC",
+    "abbr": "DC",
+    "tzid": "America/New_York",
+    "label": "EST"
+  },
+  "512": {
+    "city": "Austin",
+    "state": "Texas",
+    "abbr": "TX",
+    "tzid": "America/Chicago",
+    "label": "CST"
+  }
+}
